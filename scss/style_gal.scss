@@ -1,0 +1,17 @@
+body {
+    .grid_container {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        .grid_img {
+            height: 250px;
+            width: 250px;
+            border: 1px solid greenyellow;
+        }
+    }
+}
+
+h2 {
+    text-align: center;
+    border: 1px solid greenyellow;
+    background-color: olivedrab;
+}

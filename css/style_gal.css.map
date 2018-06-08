@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACI,oBAAgB;EACZ,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,eAAe;EACtC,8BAAU;IACN,MAAM,EAAE,KAAK;IACb,KAAK,EAAE,KAAK;IACZ,MAAM,EAAE,qBAAqB;;AAKzC,EAAG;EACC,UAAU,EAAE,MAAM;EAClB,MAAM,EAAE,qBAAqB;EAC7B,gBAAgB,EAAE,SAAS",
+"sources": ["../scss/style_gal.scss"],
+"names": [],
+"file": "style_gal.css"
+}
